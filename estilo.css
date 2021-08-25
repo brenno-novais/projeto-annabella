@@ -1,0 +1,47 @@
+/* CSS Document */
+
+body {
+	background-image: url('imagens/fundo.png');
+	font-family: Roboto, Arial, serif;
+}
+
+#conteudo {
+	width: 862.6px;
+	background-color: white;
+	padding: 20px;
+}
+
+#navegacao {
+	width: 859.9px;
+	padding: 20px;
+	background-color: #d3d3bc; 
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+a {
+	color: #535768;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px
+}
+
+h1 {
+	color: #828271;
+	font-size: 22px;
+
+}
+
+p {
+	font-size: 16px;
+}
+
+.img-texto {
+	border: 10px solid #d3d3bc; 
+}
+
+h2 {
+	font-weight: 800;
+	font-size: 15px;
+	margin-left: 300px;
+}
